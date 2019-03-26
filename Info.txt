@@ -1,0 +1,8 @@
+
+https://www.javainuse.com/spring/SpringBoot_HelloWorld_gradle
+
+gradlew clean build
+
+gradlew bootRun  OR  java -jar build/libs/boot-gradle-0.0.1-SNAPSHOT.jar
+
+http://localhost:8080/welcome.html
